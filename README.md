@@ -94,7 +94,7 @@ You can access the comment section by clicking on the complaint on your Dashboar
 
 
 **Github Repository:**
-https://github.com/iam-abbas/hostel-management
+https://github.com/ksajan/hostel-management
 
 
 #### Resources Used:
@@ -136,7 +136,7 @@ https://github.com/iam-abbas/hostel-management
 ## SETUP GUIDE
 
 #### Downloads:
-- Source Code:- https://github.com/iam-abbas/hostel-management
+- Source Code:- https://github.com/ksajan/hostel-management
 - XAMPP:- https://www.apachefriends.org/download.html
 - Android Studio:- https://developer.android.com/studio
 - A Text Editor (optional)
